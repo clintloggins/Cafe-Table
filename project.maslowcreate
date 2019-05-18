@@ -169,7 +169,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -190,7 +190,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -211,7 +211,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -273,6 +273,13 @@
                         }
                     ],
                     "closedSelection": 0
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 930,
+                    "y": 358,
+                    "ioValues": []
                 },
                 {
                     "atomType": "ShrinkWrap",
@@ -332,13 +339,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -762,6 +762,13 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 930,
+                    "y": 358,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 1035,
@@ -781,13 +788,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1045,8 +1045,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 930,
+                    "y": 358,
                     "ioValues": []
                 }
             ],
@@ -1294,8 +1294,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 930,
+                    "y": 358,
                     "ioValues": []
                 }
             ],
@@ -1497,8 +1497,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 930,
+                    "y": 358,
                     "ioValues": []
                 }
             ],
@@ -1720,8 +1720,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 930,
+                    "y": 358,
                     "ioValues": []
                 }
             ],
