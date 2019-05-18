@@ -1653,6 +1653,27 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
+                    "x": 475,
+                    "y": 215,
+                    "uniqueID": 443781,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 120
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
                     "x": 507,
                     "y": 136,
                     "uniqueID": 614542,
@@ -1668,27 +1689,6 @@
                         {
                             "name": "z-axis degrees",
                             "ioValue": -120
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 475,
-                    "y": 287,
-                    "uniqueID": 443781,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": 120
                         }
                     ]
                 },
@@ -1788,14 +1788,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 208582",
-                    "ap1ID": 614542,
+                    "ap2Name": "3D shape 890032",
+                    "ap1ID": 443781,
                     "ap2ID": 736797
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 890032",
-                    "ap1ID": 443781,
+                    "ap2Name": "3D shape 208582",
+                    "ap1ID": 614542,
                     "ap2ID": 736797
                 },
                 {
