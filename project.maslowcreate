@@ -54,10 +54,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 3
                         }
                     ]
                 },
@@ -278,7 +274,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 930,
-                    "y": 358,
+                    "y": 251,
                     "ioValues": []
                 },
                 {
@@ -563,10 +559,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 3
                         }
                     ]
                 },
@@ -765,7 +757,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 930,
-                    "y": 358,
+                    "y": 251,
                     "ioValues": []
                 },
                 {
@@ -1046,7 +1038,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 930,
-                    "y": 358,
+                    "y": 251,
                     "ioValues": []
                 }
             ],
@@ -1224,12 +1216,7 @@
                     "x": 384,
                     "y": 202,
                     "uniqueID": 462568,
-                    "ioValues": [
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Input",
@@ -1295,7 +1282,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 930,
-                    "y": 358,
+                    "y": 251,
                     "ioValues": []
                 }
             ],
@@ -1498,7 +1485,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 930,
-                    "y": 358,
+                    "y": 251,
                     "ioValues": []
                 }
             ],
@@ -1721,7 +1708,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 930,
-                    "y": 358,
+                    "y": 251,
                     "ioValues": []
                 }
             ],
@@ -1806,5 +1793,6 @@
             ],
             "fileTypeVersion": 1
         }
-    ]
+    ],
+    "circleSegmentSize": 2
 }
